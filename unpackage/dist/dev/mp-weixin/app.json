@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/location/location",
+    "pages/wine-search/wine-search",
+    "pages/search-to-details/search-to-details",
+    "pages/wine-details/wine-details",
+    "pages/order-sure/order-sure",
+    "pages/kefu/kefu"
+  ],
+  "subPackages": [],
+  "window": {},
+  "permission": {
+    "scope.userLocation": {
+      "desc": "获取您的位置"
+    }
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap23.json"
+}

@@ -1,0 +1,1 @@
+<view class="content"><block wx:for="{{detailsList}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view class="list"><image src="{{item}}" mode></image></view></block><view class="bottom">----- 我是有底线的-----</view></view>

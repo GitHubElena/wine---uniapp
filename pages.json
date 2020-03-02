@@ -1,0 +1,53 @@
+{
+	"pages": [ 
+		
+		
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationStyle":"custom"
+			}
+		},
+		{
+            "path" : "pages/location/location",
+            "style" : {	
+				"navigationStyle":"custom"
+			}
+        },
+        {
+            "path" : "pages/wine-search/wine-search",
+            "style" : {
+        		"navigationStyle":"custom"
+        	}
+        },  
+		  {
+		       "path" : "pages/search-to-details/search-to-details",
+		       "style" : {
+		   		"navigationStyle":"custom"
+		   	}
+		 },
+		 {
+		     "path" : "pages/wine-details/wine-details",
+		     "style" : {
+		 		"navigationStyle":"custom"
+		 	}
+		 },
+		 {
+		     "path" : "pages/order-sure/order-sure",
+		     "style" : {
+		 		"navigationStyle":"custom"
+		 	}
+		 },       
+        {
+            "path" : "pages/kefu/kefu",
+            "style" : {
+				"navigationBarBackgroundColor":"#EEEEEE",
+				"navigationBarTitleText":"客服",
+			    "navigationBarTextStyle":"black"				
+			}
+        }
+    ],
+	"globalStyle": {
+
+	}
+}
